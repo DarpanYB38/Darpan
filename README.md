@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Script, Node js and AIML**
 
-- 💬 Ask me about **Python, python(Dajngo), Html, Css, C**
+- 💬 Ask me about **Python, python(Dajngo), Html, Css, C and JS**
 
 - 📫 How to reach me **darpanbrahma@gmail.com**
 
